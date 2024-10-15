@@ -1,0 +1,6 @@
+/users.db
+/.env
+/.idea
+/.git
+/venv/
+/__pycache__
