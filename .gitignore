@@ -4,3 +4,4 @@
 /.git
 /venv/
 /__pycache__
+/rates.txt
